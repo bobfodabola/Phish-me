@@ -1,2 +1,0 @@
-# Phish-me
-retard
